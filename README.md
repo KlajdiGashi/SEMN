@@ -1,2 +1,2 @@
 # SEMN
-SEMN-Sistemi elektronik për menagjimin e nxënësave
+SEMN-Sistemi elektronik për menagjimin e nxënësve
